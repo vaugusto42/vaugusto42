@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there! I'm Victor 👋
+### Mobile Developer specializing in Kotlin for Android
 
-<!--
-**vaugusto42/vaugusto42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🖥️ Here you may find
+
+✨ Kotlin<br>
+✨ Android Jetpack Components<br>
+✨ MVVM/MVP Architecture<br>
+✨ Dependency Injections with Hilt (dagger)<br>
+✨ API integrations and coroutines<br>
+✨ SQLite with Room<br>
+
+✨ Agile Methodology (SCRUM + Jira)<br>
+✨ Git workflow 
+
+
+## 🌱 What I'm currently learning
+
+✨ Dependency Injections with Koin<br>
+✨ Unit Tests (Mockito)<br>
+✨ Unit UI Tests (Espresso)<br>
+✨ Clean Architecture<br>
+✨ CI/CD (Bitrise)<br>
+✨ SOLID
