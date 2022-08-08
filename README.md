@@ -15,7 +15,7 @@
 </div>
 
 
-## 🖥️ Here you may find
+## 🖥️ Here you'll find
 
 ✨ Kotlin<br>
 ✨ Android Jetpack Components<br>
