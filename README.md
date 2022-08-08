@@ -37,5 +37,5 @@
 ✨ CI/CD (Bitrise)<br>
 ✨ SOLID
 
-#### Here you can find my study plan at Alura's courses
+#### Here you can find my study plan as well as my progress at Alura's courses
 https://cursos.alura.com.br/meu-plano-de-estudos-victorsaade-1659559079912-p419075
