@@ -24,10 +24,6 @@
 ✨ Coroutines<br>
 ✨ SQLite with Room<br>
 
-✨ Agile Methodology (SCRUM + Jira)<br>
-✨ Git workflow 
-
-
 ## 🌱 What I'm currently learning
 
 ✨ Dependency Injections with Koin<br>
