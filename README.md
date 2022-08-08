@@ -2,7 +2,6 @@
 ### Mobile Developer specializing in Kotlin for Android
 
 <div> 
- <a href="discordapp.com/users/Victor Damião#7776" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/victor-augusto-saade-dami%C3%A3o-2a23b3114/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
