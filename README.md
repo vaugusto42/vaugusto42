@@ -20,7 +20,8 @@
 ✨ Android Jetpack Components<br>
 ✨ MVVM/MVP Architecture<br>
 ✨ Dependency Injections with Hilt (dagger)<br>
-✨ API integrations and coroutines<br>
+✨ API integrations<br>
+✨ Coroutines<br>
 ✨ SQLite with Room<br>
 
 ✨ Agile Methodology (SCRUM + Jira)<br>
