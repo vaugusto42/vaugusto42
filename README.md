@@ -20,7 +20,8 @@
 ✨ Android Jetpack Components<br>
 ✨ MVVM/MVP Architecture<br>
 ✨ Dependency Injections with Hilt (dagger)<br>
-✨ API integrations<br>
+✨ API Rest/Restful<br>
+✨ CRUD<br>
 ✨ Coroutines<br>
 ✨ SQLite with Room<br>
 
